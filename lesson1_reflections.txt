@@ -22,3 +22,5 @@ How can you use the commands git log and git diff to view the history of files?
 
 Git log - shows the commit history with the IDs
 GIt diff - entering the ids you can realize what have changed in the versions
+
+lets make shit happen
